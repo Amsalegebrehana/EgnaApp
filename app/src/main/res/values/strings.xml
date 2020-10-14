@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EgnaLeEgna</string>
+    <string name="egna_le_egna">Egna Le Egna</string>
+    <string name="together_we_grow">Together We Grow!</string>
+    <string name="an_investment_in_knowledge_pays_the_best_interest">An investment in knowledge pays the best interest.</string>
+    <string name="register">Register</string>
+    <string name="st_or_sp">St or Sp</string>
+    <string name="login">Login</string>
+    <string name="create_acc">Create acc</string>
+    <string name="forgotpassword">forgotPassword</string>
+</resources>
